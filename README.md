@@ -1,3 +1,4 @@
+
 # Lab6Web
 ```markdown
 Nama: M.Ridho Febrian
@@ -10,6 +11,7 @@ Praktikum ke: 6
 Struktur Folder Proyek
 Berikut adalah struktur direktori final dari proyek ini.
 ```
+---
 
 ### Praktikum 6: Implementasi CSS Framework Bootstrap
 Selamat datang di repository untuk Praktikum 6 Pemrograman Web. Proyek ini berfokus pada penggunaan CSS Framework Bootstrap 5 untuk membangun dan menata ulang halaman web yang modern dan responsif.
@@ -67,11 +69,13 @@ Form: Dengan kelas seperti `.form-control` dan `.form-label`, elemen form dapat 
 Button: Menyediakan berbagai gaya tombol hanya dengan menambahkan kelas seperti `.btn` dan `.btn-primary`.
 
 
+---
+
 ## 2. Tugas Praktikum dan Hasil Akhir ##
 
 Praktikum ini terdiri dari tiga tugas utama yang dikerjakan secara berurutan.
 
-**Tugas 1: Refactor Layout Praktikum 4 (`index.html`)**
+## Tugas 1: Refactor Layout Praktikum 4 (`index.html`) ##
 
 Tugas pertama adalah mengambil layout dari Praktikum 4 yang dibuat dengan CSS manual dan membangunnya kembali menggunakan Bootstrap Grid System.
 
@@ -81,7 +85,9 @@ Tugas pertama adalah mengambil layout dari Praktikum 4 yang dibuat dengan CSS ma
 
 Hasil: Halaman `index.html` kini sepenuhnya responsif tanpa menggunakan properti `float` atau `clear` manual
 
-<img src="images/INDEX.png" width="700">
+<img src="lab6_bootstrap/images/INDEX.png" width="700">
+
+---
 
 ### Tugas 2: Refactor Form Praktikum 5 (`contact.html`) ### 
 
@@ -92,7 +98,9 @@ Implementasi: Setiap elemen form diberi kelas yang sesuai, seperti `.form-label`
 
 Hasil: Halaman `contact.html` kini menampilkan formulir yang rapi, terstruktur, dan konsisten secara visual.
 
-<img src="images/FORM.png" width="700">
+<img src="lab6_bootstrap/images/FORM.png" width="700">
+
+---
 
 ### Tugas 3: Membuat Halaman Portfolio Baru (`portfolio.html`) ###
 
@@ -104,7 +112,9 @@ Implementasi: Halaman ini berisi sebuah Navbar, section "Tentang Saya" dengan la
 
 Hasil: Halaman `portfolio.html` menjadi sebuah halaman profil yang fungsional, responsif, dan menarik secara visual, siap untuk menampilkan proyek-proyek yang pernah dibuat.
 
-<img src="images/PORTFOLIO.png" width="700">
+<img src="lab6_bootstrap/images/PORTFOLIO.png" width="700">
+
+---
 
 ## 3. Teknologi yang Digunakan ## 
 
