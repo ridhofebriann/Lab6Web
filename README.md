@@ -81,7 +81,7 @@ Tugas pertama adalah mengambil layout dari Praktikum 4 yang dibuat dengan CSS ma
 
 Hasil: Halaman `index.html` kini sepenuhnya responsif tanpa menggunakan properti `float` atau `clear` manual
 
-<img src="images/prompt.png" width="700">
+<img src="images/INDEX.png" width="700">
 
 ### Tugas 2: Refactor Form Praktikum 5 (`contact.html`) ### 
 
@@ -92,7 +92,7 @@ Implementasi: Setiap elemen form diberi kelas yang sesuai, seperti `.form-label`
 
 Hasil: Halaman `contact.html` kini menampilkan formulir yang rapi, terstruktur, dan konsisten secara visual.
 
-<img src="images/prompt.png" width="700">
+<img src="images/FORM.png" width="700">
 
 ### Tugas 3: Membuat Halaman Portfolio Baru (`portfolio.html`) ###
 
@@ -104,7 +104,7 @@ Implementasi: Halaman ini berisi sebuah Navbar, section "Tentang Saya" dengan la
 
 Hasil: Halaman `portfolio.html` menjadi sebuah halaman profil yang fungsional, responsif, dan menarik secara visual, siap untuk menampilkan proyek-proyek yang pernah dibuat.
 
-<img src="images/prompt.png" width="700">
+<img src="images/PORTFOLIO.png" width="700">
 
 ## 3. Teknologi yang Digunakan ## 
 
